@@ -33,3 +33,16 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+
+#web2py
+minicrm/errors/*
+minicrm/databases/*
+minicrm/cache/*
+minicrm/sessions/*
+minicrm/uploads/*
+*.pyc
+*.mwb.bak
+*.bak
+
+

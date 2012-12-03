@@ -1,0 +1,4 @@
+[2012-11-30 12:56:33] START
+[2012-11-30 12:56:33] DELETE minicrm/models/db_wizard.py: 0
+[2012-11-30 13:41:12] CREATE clientes.py: 0
+[2012-11-30 13:41:53] CREATE clientes/nuevo.html: 0
